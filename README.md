@@ -1,5 +1,5 @@
 # Biscuit
-A strict CLI based jar file scanner that decompiles a jar file using Procyon.
+A CLI-based jar file scanner that utilizes the Procyon decompiler to analyze jar files and detect potentially malicious keywords.
 
 # Screenshots
 ![image](https://github.com/dubfib/biscuit/assets/81378985/120dfd5e-52f8-4f3c-b4ee-37a9a41195a2)
