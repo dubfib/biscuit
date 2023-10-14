@@ -1,6 +1,6 @@
 {
   "name": "biscuit",
-  "version": "0.0.1",
+  "version": "1.0",
   "description": "A strict CLI based jar file scanner for malicious keywords",
   "main": "index.js",
   "scripts": {
