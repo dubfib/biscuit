@@ -1,0 +1,44 @@
+[
+    {
+        "name": "Discord",
+        "description": "Detects any malware that is Discord based",
+        "keywords": [
+            "discord\\Local Storage\\leveldb",
+            "discordptb\\Local Storage\\leveldb",
+            "discordcanary\\Local Storage\\leveldb",
+            "discord\\Local State",
+            "discordptb\\Local State",
+            "discordcanary\\Local State",
+            "discord/Local",
+            "discord/Local Storage",
+            "discord/Local Storage/leveldb",
+            "discord/Local State",
+            "discordapp.com/api"
+        ]
+    },
+    {
+        "name": "Amazon",
+        "description": "Detects any malware that is Amazon based",
+        "keywords": [
+            "checkip.amazonaws.com"
+        ]
+    },
+    {
+        "name": "InternetProtocol",
+        "description": "Detects any malware that grabs your internet protocol address",
+        "keywords": [
+            "ip"
+        ]
+    },
+    {
+        "name": "Cryptography",
+        "description": "Detects any malware that uses a form of cryptography",
+        "keywords": [
+            "cipher",
+            "AES",
+            "DES",
+            "crypto",
+            "javax.crypto"
+        ]
+    }
+]

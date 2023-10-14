@@ -1,0 +1,35 @@
+{
+  "name": "biscuit",
+  "version": "0.0.1",
+  "description": "A strict CLI based jar file scanner for malicious keywords",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dubfib/biscuit.git"
+  },
+  "keywords": [
+    "biscuit",
+    "malware",
+    "malware-scanner",
+    "virus-scanner",
+    "scanner",
+    "jar",
+    "java"
+  ],
+  "author": "dubfib",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/dubfib/biscuit/issues"
+  },
+  "homepage": "https://github.com/dubfib/biscuit#readme",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "fs-extra": "^11.1.1",
+    "fs-readdir-recursive": "^1.1.0",
+    "ora": "^5.4.1",
+    "shelljs": "^0.8.5"
+  }
+}
