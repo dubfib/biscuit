@@ -6,7 +6,7 @@ A strict CLI based jar file scanner that decompiles a jar file using Procyon.
 
 # Installation
 + Install `Node.js (v16+)` and `npm (v8+)`
-+ Download the repository from `GitHub`
++ Download the repository from this `GitHub's releases`
 + Download Procyon from [GitHub](https://github.com/mstrobel/procyon/releases) and save it as `procyon.jar` inside the root of the folder
 + Inside the unzipped folder, run `install.bat`
 + Then to decompile a jar file, drag and drop your `.jar` file onto `start.bat`
