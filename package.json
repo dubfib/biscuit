@@ -11,13 +11,7 @@
     "url": "git+https://github.com/dubfib/biscuit.git"
   },
   "keywords": [
-    "biscuit",
-    "malware",
-    "malware-scanner",
-    "virus-scanner",
-    "scanner",
-    "jar",
-    "java"
+    "biscuit"
   ],
   "author": "dubfib",
   "license": "MIT",
